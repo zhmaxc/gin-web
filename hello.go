@@ -9,6 +9,6 @@ func main() {
          "message": "hello CP  !!!",
      })
  })
- r.Static("/index","./")
+ r.Static("/index","/root/")
  r.Run() // listen and serve on 0.0.0.0:8080 (for windows "localhost:8080")
 }
