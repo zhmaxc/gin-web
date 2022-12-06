@@ -1,3 +1,3 @@
-# DevOps Demo
+# Golang CD Demo
 
 For Volcegine Code Pipeline
